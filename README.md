@@ -1,4 +1,4 @@
-# Projeto de Aprendizagem Aplicada a Segurança - Intrusion Detection System
+# Intrusion Detection System
 
 ## Autores
 
